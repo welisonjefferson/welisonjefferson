@@ -1,5 +1,5 @@
 ### Olá eu sou Welison Jefferson 👋
-
+<div>
 <div align="center">
   <a href="https://github.com/welisonjefferson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welisonjefferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,13 +17,16 @@
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <link align="center" heigth="30"  width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <link align="center" heigth="30"  width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <link align="center" heigth="30"  width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   </div>
   
+  <div>
+    https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+    </div>
   ##
   
 - 🔭 Hoje estou trabalhando como desenvolvedor Full Stack.
 - 🌱 Estudando JavaScript e Java
 - 📫 Contate - me no email: webwelison@gmail.com ou 📱 celular WhatsApp: (62) 99284-7952
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
