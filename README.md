@@ -24,6 +24,6 @@
 - 📫 Contate - me no email: webwelison@gmail.com ou 📱 celular WhatsApp: (62) 99284-7952
 
   <a href="https://img.shields.io/badge/https://wa.me/qr/RUUVPO4Y4JVAK1?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://img.shields.io/badge/https://wa.me/qr/RUUVPO4Y4JVAK1?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
