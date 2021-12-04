@@ -17,10 +17,13 @@
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <link align="center" heigth="30"  width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <link align="center" heigth="30"  width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <link align="center" heigth="30"  width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   </div>
+  
+  ##
+  
 - 🔭 Hoje estou trabalhando como desenvolvedor Full Stack.
 - 🌱 Estudando JavaScript e Java
 - 📫 Contate - me no email: webwelison@gmail.com ou 📱 celular WhatsApp: (62) 99284-7952
