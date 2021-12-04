@@ -17,10 +17,6 @@
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </div>
-  
-  <div>
-    https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-    </div>
   ##
   
 - 🔭 Hoje estou trabalhando como desenvolvedor Full Stack.
