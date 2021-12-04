@@ -23,5 +23,7 @@
 - 🌱 Estudando JavaScript e Java
 - 📫 Contate - me no email: webwelison@gmail.com ou 📱 celular WhatsApp: (62) 99284-7952
 
+  https://img.shields.io/badge/https://wa.me/qr/RUUVPO4Y4JVAK1?style=for-the-badge&logo=whatsapp&logoColor=white
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
