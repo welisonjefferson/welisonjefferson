@@ -1,6 +1,6 @@
 ### Olá eu sou Welison Jefferson 👋
 <div>
-<div align="center">
+<div align="lefth">
   <a href="https://github.com/welisonjefferson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welisonjefferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
