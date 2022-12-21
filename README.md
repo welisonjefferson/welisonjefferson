@@ -21,7 +21,8 @@
   
 - 🔭 Full Stack Developer.
 - 🌱 Java, JavaScript 5+ year
-- 📫 Contate - me no email: webwelison@gmail.com ou 📱 celular WhatsApp: (62) 99284-7952
+- 📫 Contact me on email: webwelison@gmail.com 
+  📱  WhatsApp: (62) 99284-7952
 
   <a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   ![Snake animation](https://github.com/welisonjefferson/welisonjefferson/blob/output/github-contribution-grid-snake.svg)
