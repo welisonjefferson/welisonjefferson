@@ -1,4 +1,4 @@
-### Olá eu sou Welison Jefferson 👋
+### Hi, my name is Welison Jefferson 👋
 <div>
 <div align="lefth">
   <a href="https://github.com/welisonjefferson">
